@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hi! I'm Sofia
-* I am an Undergrad Information Systems at Federal Institute of Education, Science and Technology of Espírito Santo <br>
-* I’m currently learning Python, HTML, CSS, Javascript<br>
+* I'm currently an Undergrad student in Information Systems at the Federal Institute of Education, Science and Technology of Espírito Santo <br>
+* I'm focusing my studies on Python, HTML, CSS and Javascript<br>
 * Front-end development & UI/UX Design enthusiast<br>
 <br>🚀 Another day, another opportunity!
 
