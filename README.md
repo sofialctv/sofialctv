@@ -1,6 +1,6 @@
 # 👩🏻‍💻 **Hi! I'm Sofia**<br>
 * I'm currently an Undergrad student in Information Systems at the Federal Institute of Education, Science and Technology of Espírito Santo; <br>
-* I'm a Front-end development & UI/UX Design enthusiast;
+* I'm a Front-end & UI/UX Design enthusiast;
 
 🚀 Another day, another opportunity!<br>
 
