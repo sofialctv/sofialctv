@@ -1,12 +1,12 @@
 <p align="center">
    <samp><br>
-   hi, i'm Sofia!
-   <br>
-   i’m currently an undergrad student in Information Systems at IFES <br>
-    ui/ux, devops and qa enthusiast
+   hi, i'm Sofia :^)
+   <br><br>
+   QA Analyst, helping my team to deliver more and better <br>
+   devSecOps enthusiast
    </samp><br>
 <p align="center"><samp> ∙
-   <a href="https://www.linkedin.com/in/sofialctv/">linkedIn</a>
+   <a href="https://www.linkedin.com/in/sofialctv/">my linkedIn</a>
    ∙ </samp><br><br>
    
 </p>
